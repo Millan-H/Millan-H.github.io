@@ -1,0 +1,22 @@
+.navbar{
+    height: 3em;
+    width: 100%;
+    padding: 1em;
+    .navElem{
+        margin: 1em;
+        padding: 0.4em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        text-decoration: none;
+        border: 2px solid black;
+        color: black;
+        border-radius: 50px;
+        &:hover{
+            padding-left: 1em;
+            padding-right: 1em;
+            background: black;
+            color: rgb(242, 222, 174);
+            transition: 0.3s all ease-in-out;
+        }
+    }
+}

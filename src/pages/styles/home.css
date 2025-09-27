@@ -1,0 +1,19 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    justify-content: center;
+    align-items: center;
+    .firstRow{
+        display: flex;
+        flex-direction: row;
+        .bioInfo{
+            text-align: left;
+            width: 65%;
+            img{
+                padding: 1em;
+                border: 2px solid black;
+            }
+        }
+    }
+}
