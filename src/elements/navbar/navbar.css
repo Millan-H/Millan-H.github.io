@@ -16,7 +16,7 @@
             padding-right: 1em;
             background: black;
             color: rgb(242, 222, 174);
-            transition: 0.3s all ease-in-out;
+            transition: 0.1s all ease-in-out;
         }
     }
 }

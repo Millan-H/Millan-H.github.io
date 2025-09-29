@@ -2,7 +2,9 @@
   text-align: center;
   background-color: rgb(242, 222, 174);
   min-height: 100vh;
-  font-family: 'Courier New', Courier, monospace
+  font-family: 'Courier New', Courier, monospace;
+  justify-content: center;
+  align-items: center;
 }
 
 .App-logo {
